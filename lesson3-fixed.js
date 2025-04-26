@@ -1,0 +1,10 @@
+var myName = "Moses Okode";
+var age = 25;
+var isLearningTypescript = true;
+var programemingLanguages = ["JavaScript", "Python", "TypeScript"];
+var person = ["Moses Okode", 24];
+console.log("My name is ", myName);
+console.log("I am ", age, " years old");
+console.log("I am learning TypeScript? ", isLearningTypescript);
+console.log("I know the following programming languages: ", programemingLanguages);
+console.log("My name is ", person[0], " and I am ", person[1], " years old");
